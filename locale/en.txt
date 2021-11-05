@@ -741,7 +741,7 @@ panorama_B6F54EE1_91A8_90C6_41D7_634EFAF5AADA.label = 2(2)
 panorama_B9796B59_9A76_3F18_41D9_44E13095F90E.label = 11 (2)
 panorama_BB031830_91E8_9F47_41D7_EE21B2E104F8.label = 3
 panorama_BDB8D88A_956E_A1B4_41E2_746F8FAB03EF.label = The Gale
-panorama_F4E55486_E606_1ADA_41DD_9D9E89F0F04C.label = 16
+panorama_FD7E033C_EED6_C604_41EA_CE66F7A676F3.label = 16
 photo_87FFF949_A8CC_6BEB_41E4_02FD67DB92D4.label = _DSF0013
 photo_87FFF949_A8CC_6BEB_41E4_02FD67DB92D4.label = _DSF0013
 photo_88FB4B30_A8D4_2FB9_41D1_AAC10B898F58.label = _DSF0243
@@ -773,5 +773,3 @@ LinkBehaviour_EF144F39_D068_B4E3_41DF_EAF2CA37FDFC.source = http://www.vondutch.
 LinkBehaviour_EF14DF39_D068_B4E3_41D9_7975912DECD3.source = https://www.astra-honda.com/
 LinkBehaviour_EF176F38_D068_B4E1_41C0_F91B95CDDC59.source = https://www.pegadaian.co.id/
 LinkBehaviour_EF17DF38_D068_B4E1_41D3_BB95241E6FEC.source = https://www.bpddiy.co.id
-LinkBehaviour_FEA713F0_E40A_04B6_41D7_D4C682190C3C.source = https://www.marlboro.id/?utm_source=event&utm_medium=referral&utm_campaign=06-11-2021+Pursue+Flavor+Tactical+-+Brand+Awareness+Discover&utm_content=Kustomfest+-+Homepage+1
-LinkBehaviour_FEA723F0_E40A_04B6_41B1_284D0518C42C.source = https://www.marlboro.id/?utm_source=event&utm_medium=referral&utm_campaign=06-11-2021+Pursue+Flavor+Tactical+-+Brand+Awareness+Discover&utm_content=Kustomfest+-+Homepage+1
