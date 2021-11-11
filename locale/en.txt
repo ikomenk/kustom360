@@ -367,6 +367,9 @@ Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
 Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = dolor sit amet, consectetur 
 Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
 
+### Tooltip
+Image_13B1DAA0_0DB9_515C_4193_0A374AADFDCE.toolTip = Go To www.kustomfest.com
+
 ## Media
 
 ### Title
@@ -767,6 +770,7 @@ HotspotPanoramaOverlayArea_92DE3300_9C72_F25F_41CA_23A992077A5C.toolTip = Back t
 ## Action
 
 ### URL
+LinkBehaviour_12BF2E93_0DB9_D17C_4180_5118774B84B7.source = http://www.kustomfest.com/
 LinkBehaviour_AC80E4DD_B327_371B_41DB_B58BDE7BC058.source = http://facebook.com/kustomfest
 LinkBehaviour_AC8134DD_B327_371B_41E1_9223485A3771.source = http://instagram.com/kustomfest/
 LinkBehaviour_EF144F39_D068_B4E3_41DF_EAF2CA37FDFC.source = http://www.vondutch.co.id/
